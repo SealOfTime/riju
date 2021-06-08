@@ -1,3 +1,5 @@
+SealOfTime, 8th of June, 2021: Cloned for support against Repl.it legal claims. More here: https://intuitiveexplanations.com/tech/replit/
+
 # Riju
 
 Riju is a very fast online playground for every programming language.
